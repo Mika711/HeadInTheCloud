@@ -8,8 +8,5 @@ Testing my first repository in GitHub
 
 [My webnode site] (https://palvelinten-hallinta.webnode.fi/)
 
-![Image] (https://picture.png)
-
-
-
+![Image] (C:\Users\Mika Aarnio\Documents\2021-2\Palvelinten Hallinta - To\Viikko 3)
 
