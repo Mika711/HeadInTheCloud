@@ -15,7 +15,7 @@ Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
 `git log --pretty=oneline` komento näyttää kaikki commit käskyt ja niiden SHA avaimen
 
-[Yllä oleva tieto löydetty](https://git-scm.com/docs/git-log) https://git-scm.com 
+[Yllä oleva tieto löydetty](https://git-scm.com/docs/git-log)
 
 ![Image](pics/kuva1026.png)
 
