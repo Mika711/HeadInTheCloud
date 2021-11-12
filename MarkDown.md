@@ -35,7 +35,7 @@ Muokkaa kahta tiedostoa MarkDown.md ja README.md ja ajan komennot
 
 Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
-## b)Kaikki kirjataan
+## c)Kaikki kirjataan
 
 `git log --pretty=oneline` komento näyttää kaikki commit käskyt ja niiden SHA avaimen
 
@@ -49,8 +49,25 @@ Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
 `git diff`komento näyttää viime commit käskyn jälkeen tehdyt muutokset, mutta en saa sillä mitään tulostetta aikaiseksi vaikka sitä missä kohtaa vaan yritän antaa?
 
-## c)Huppis!
+## d)Huppis!
 
 Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset --hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
+Tein tyhmän muutoksen varmuudenvuoksi ALSOME.md tiedostoon
+
+![Image](pics/kuva1031.png)
+
+Sitten ajoin komennot
+
+`git add ALSOME.md` ja
+`git reset --hard`
+
+Ja tarkistin cat-komennolla, että tekemäni tyhmät muutokset poistuivat
+
+![Image](pics/kuva1032.png)
+
+## e)Formula
+
+Tee uusi salt-tila (formula, moduli, infraa koodina). (Eli uusi tiedosto esim. /srv/salt/terontila/init.sls). Voit tehdä ihan yksinkertaisen parin funktion (pkg, file...) tilan, tai edistyneemmin asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot.
 
 
