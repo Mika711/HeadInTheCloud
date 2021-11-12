@@ -15,8 +15,13 @@ Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
 `git log --pretty=oneline` komento näyttää kaikki commit käskyt ja niiden SHA avaimen
 
-[Yllä oleva tieto löydetty](https://git-scm.com/docs/git-log)
+[Yllä oleva tieto löydetty](https://git-scm.com/docs/git-log) https://git-scm.com 
 
 ![Image](pics/kuva1026.png)
+
+`git blame MarkDown.md`komento näyttää kirjaimellisesti kenen vika (blame) tai ansioita täällä tehdyt asiat ovat
+
+![Image](pics/kuva1028.png)
+
 
 
