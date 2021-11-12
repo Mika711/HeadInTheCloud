@@ -35,7 +35,7 @@ Muokkaa kahta tiedostoa MarkDown.md ja README.md ja ajan komennot
 
 Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
-## c)Kaikki kirjataan
+## b)Kaikki kirjataan
 
 `git log --pretty=oneline` komento näyttää kaikki commit käskyt ja niiden SHA avaimen
 
@@ -48,4 +48,9 @@ Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 ![Image](pics/kuva1028.png)
 
 `git diff`komento näyttää viime commit käskyn jälkeen tehdyt muutokset, mutta en saa sillä mitään tulostetta aikaiseksi vaikka sitä missä kohtaa vaan yritän antaa?
+
+## c)Huppis!
+
+Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset --hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
 
