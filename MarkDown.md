@@ -47,5 +47,5 @@ Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
 ![Image](pics/kuva1028.png)
 
-
+`git diff`komento näyttää viiem coomit käskyn jälkeen tehdyt muutokset, mutta en saa sillä mitään tulostetta aikaiseksi vaikka sitä missä kohtaa vaan yritän antaa?
 
