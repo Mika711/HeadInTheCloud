@@ -1,3 +1,27 @@
+## H3 Versionhallinta
+
+## z)Lue ja tiivistä
+
+[https://commonmark.org/help/](https://commonmark.org/help/)
+
+- Kappaleiden väliin aina tyhjä rivi
+
+- `_kursivoitu_` tulee _kursivoitu_ teksti
+
+- `**lihavoitu**` tulee **lihavoitu** teksti
+
+- `# Otsikko tai ## Otsikko` tulee otsikko
+
+- Linkki tehdään `[Link](url)`
+
+- Kuva lisätään `![Image](url)`
+
+- Lista tehdään - merkillä
+
+## a)Tee raportti MarkDown:na
+
+Se on tässä :-)
+
 ## b)First Pull
 
 Muokkaa kahta tiedostoa MarkDown.md ja README.md ja ajan komennot
