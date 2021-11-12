@@ -8,5 +8,5 @@ Testing my first repository in GitHub
 
 [My webnode site] (https://palvelinten-hallinta.webnode.fi/)
 
-![Image] (/pics/kuva1021.png)
+![Image](/pics/kuva1021.png)
 
