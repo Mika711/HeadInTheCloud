@@ -7,3 +7,4 @@ Muokkaa kahta tiedostoa MarkDown.md ja README.md ja ajan komennot
 - git pull
 - git push
 
+![Image](pics/kuva1024.png)
