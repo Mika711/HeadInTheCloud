@@ -71,3 +71,20 @@ Ja tarkistin cat-komennolla, että tekemäni tyhmät muutokset poistuivat
 Tee uusi salt-tila (formula, moduli, infraa koodina). (Eli uusi tiedosto esim. /srv/salt/terontila/init.sls). Voit tehdä ihan yksinkertaisen parin funktion (pkg, file...) tilan, tai edistyneemmin asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot.
 
 
+## Lähteet:
+
+- Kurssin sivut: [Link](https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-2021-autumn/)
+
+- Raportointiohje: [Link](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
+
+- Muita ohjeita:
+
+ [Link](https://terokarvinen.com/)
+
+ [Link](https://stackoverflow.com/questions/35229535/how-to-execute-pkg-refresh-db-in-a-salt-state)
+
+ [Link](https://commonmark.org/help/)
+
+ [Link](https://git-scm.com/docs/git-log)
+
+
