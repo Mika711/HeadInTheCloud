@@ -73,18 +73,19 @@ Tee uusi salt-tila (formula, moduli, infraa koodina). (Eli uusi tiedosto esim. /
 
 ## Lähteet:
 
-- Kurssin sivut: [Link](https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-2021-autumn/)
+- Kurssin sivut: [https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-2021-autumn/](https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-2021-autumn/)
 
-- Raportointiohje: [Link](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
+- Raportointiohje: [https://terokarvinen.com/2006/raportin-kirjoittaminen-4/](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
 
 - Muita ohjeita:
 
- [Link](https://terokarvinen.com/)
+ [https://terokarvinen.com/](https://terokarvinen.com/)
 
- [Link](https://stackoverflow.com/questions/35229535/how-to-execute-pkg-refresh-db-in-a-salt-state)
+ [https://stackoverflow.com/questions/35229535/how-to-execute-pkg-refresh-db-in-a-salt-state](https://stackoverflow.com/questions/35229535/how-to-execute-pkg-refresh-db-in-a-salt-state)
 
- [Link](https://commonmark.org/help/)
+ [https://commonmark.org/help/](https://commonmark.org/help/)
 
- [Link](https://git-scm.com/docs/git-log)
+ [https://git-scm.com/docs/git-log](https://git-scm.com/docs/git-log)
+
 
 
