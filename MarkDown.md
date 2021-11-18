@@ -37,17 +37,19 @@ Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
 ## c)Kaikki kirjataan
 
-`git log --pretty=oneline` komento näyttää kaikki commit käskyt ja niiden SHA avaimen
+`git log --pretty=oneline` komento näyttää kaikki commit käskyt ja rivien alussa on blockchain, eli lohkoketju
 
 [Yllä oleva tieto löydetty](https://git-scm.com/docs/git-log)
 
 ![Image](pics/kuva1026.png)
 
-`git blame MarkDown.md`komento näyttää kirjaimellisesti kenen vika (blame) tai ansioita täällä tehdyt asiat ovat
+`git blame MarkDown.md`komento näyttää kirjaimellisesti kenen vika (blame) tai ansioita täällä tehdyt asiat ovat. Kuvassa näkyvä aikavyöhyke on oikea, sekä kuvassa esiintyvät kellonajan ovat oikeita.
 
 ![Image](pics/kuva1028.png)
 
 `git diff`komento näyttää viime commit käskyn jälkeen tehdyt muutokset, mutta en saa sillä mitään tulostetta aikaiseksi vaikka sitä missä kohtaa vaan yritän antaa?
+
+`git diff --cached` olisi ollut komento mitä tässä olisi myös voinut käyttää ja saada muutokset näkyviin
 
 ## d)Huppis!
 
