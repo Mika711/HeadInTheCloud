@@ -53,7 +53,7 @@ Ja tarkistin GiTHub:sta että kaikki muutokset tulivat voimaan
 
 ## d)Huppis!
 
-Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset --hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset `git reset --hard`. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
 
 Tein tyhmän muutoksen varmuudenvuoksi ALSOME.md tiedostoon
 
@@ -76,7 +76,7 @@ Loin aluksi uuden hakemiston nimeltään mikantila komennolla `sudo mkdir -p /sr
 
 ![Image](pics/kuva1185.png)
 
-Tämän jälkeen ajoin komennon `sudo salt-call --local -l info state.apply mikantila` ja kaikki näytti olevan ok 
+Tämän jälkeen ajoin komennon `sudo salt '*' state.apply mikantila/` ja kaikki näytti olevan ok 
 
 ![Image](pics/kuva1186.png)
 
