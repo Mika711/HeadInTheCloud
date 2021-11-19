@@ -72,7 +72,7 @@ Ja tarkistin cat-komennolla, että tekemäni tyhmät muutokset poistuivat
 
 Tee uusi salt-tila (formula, moduli, infraa koodina). (Eli uusi tiedosto esim. /srv/salt/terontila/init.sls). Voit tehdä ihan yksinkertaisen parin funktion (pkg, file...) tilan, tai edistyneemmin asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot.
 
-Loin aluksi uuden hakemiston nimeltään mikantila komennolla `sudo mkdir -p /srv/salt/mikantila` ja sinne init.sls tiedostoon kuvan mukaiset komennot
+Loin aluksi uuden hakemiston nimeltään mikantila komennolla `sudo mkdir -p /srv/salt/mikantila` ja sinne init.sls tiedostoon kuvan mukaiset komennot. Kuvassa myös näkyy, että loin polkuun /tmp/ tervehdys nimisen tiedoston, jossa siis lukee "No terve vaan!"
 
 ![Image](pics/kuva1185.png)
 
